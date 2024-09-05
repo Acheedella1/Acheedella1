@@ -1,5 +1,5 @@
 **/.DS_Store
 **/.ipynb_checkpoints
 git add.
-git commit -m <I committed the changes to ignore the ipynb_checkpoints and DS store>
+git commit -m "I committed the changes to ignore the ipynb_checkpoints and DS store"
 git push
