@@ -1,3 +1,2 @@
-# AC_CSCI_1070 
-## Hi my name is Lucky
-<p> I am a bio major with a minor in evolutionary bio. I am a junior and I am originally from Kansa, Overland Park. I have a CNA license and I have so many fun stories about medical horrors. I am really passionate about my cutie-pie dog. He is 11 but he will always be my baby. </p>
+# Hi my name is Lucky Cheedella
+<p> I am a bio major specializing in evolutionary biology. I am also working in Dr. Bray Speth lab and am writing about research about the p53 cancer suppressor. I am a junior and I am originally from Kansas, Overland Park. I have a CNA license and many fun stories about medical horrors. I am passionate about my cutie-pie dog. He is 11 but he will always be my baby. I have another cat named Grumpy, an exotic shorthair with heterochromia. I love dressing him up in clothes he hates but tolerates. Outside of that, I like spending my time studying at new cafes, I love trying new food.  </p>
