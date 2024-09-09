@@ -1,1 +1,4 @@
 commit README.md
+git add .CSCI
+git commit -m "Commiting changes to repo" 
+git push
